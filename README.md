@@ -131,6 +131,7 @@ My compiled list of web development resources.
 #### Design Tools
 
 - [Responsively](https://responsively.app/)
+- [Type Scale](https://type-scale.com/)
 
 ## JavaScript
 
